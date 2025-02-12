@@ -6,7 +6,7 @@
 # Tested on   : CentOS / RHEL (YUM-based systems)
 # Language    : Java
 # Script License: Apache License, Version 2 or later
-# Maintainer  : [Your Name]
+# Maintainer  : Pradnya Repal
 # Disclaimer  : This script has been tested on a fresh system with the mentioned setup.
 #               Adjustments may be required for other environments.
 # -----------------------------------------------------------------------------
