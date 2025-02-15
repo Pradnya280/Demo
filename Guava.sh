@@ -4,7 +4,7 @@
 # Package	    : listenablefuture
 # Version	    : master
 # Source repo	: https://github.com/google/guava.git
-# Tested on	    : UBI 8.3
+# Tested on	    : UBI 9.3
 # Language      : Java
 # Travis-Check  : True
 # Script License: Apache License, Version 2 or later
